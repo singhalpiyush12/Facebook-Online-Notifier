@@ -1,4 +1,5 @@
 # Facebook-Online-Notifier
+For all the majnu's out there xd,now you dont have to keep checking always for your crush to come online.
 
 Clone this repo
 
