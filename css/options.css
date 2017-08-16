@@ -1,0 +1,36 @@
+body {
+    overflow-x:hidden;
+    text-align:center;
+    font-size:13px;
+    font-family:Arial,sans-serif;
+    color:#333;
+    background: white;
+    margin-bottom: 120px;
+}
+input{
+    font-size:13px;
+    font-family:Arial,sans-serif;
+    vertical-align: middle;
+}
+input[type=text]:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 248, 1);
+    border: 1px solid rgba(81, 203, 248, 1);
+}
+input[type=text] {
+    transition: all 0.30s ease-in-out;
+    outline: none;
+}
+h2{
+    color:red;
+}
+h3{
+    font-size: 16px;
+}
+.opt_{
+    margin-top: 48px;
+    font-size: 16px;
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+    margin-left: 250px;
+}
