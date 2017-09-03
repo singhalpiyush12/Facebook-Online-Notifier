@@ -16,7 +16,6 @@
       "16": "img/icon16.png",
       "48": "img/icon48.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgZeyuWOyE+IeVEy+WP5SLhdUP1R9togck/jKa58HgPIJRkHP0PM/y9qxc4zvzPEml3LdOBQsr6v5UIFvCgRK6MdPEJrN6Usp9V0uTM/Z+mvUnzQLHqCn3Uw20fOiNnVAjq6l9v7PigzL9LURjTNSjHTW6vnS9ravqUzc9joCZxejf5eWDnzU3l/8Jgz4OFuFySoRqyO8iQGeoZd9NzA4YJ3qasUuPaWdBfjwPBP4x0uR0bULtI6AG2mqkARPV9JhzmQnzbPOMdQ3VMmqxaIwAF42KCEvDH8m1HeUhUpTrNd2BPlTZtZKUxMiXiqkyu55E0wFWjw+i85NehFnPsQcYwIDAQAB",
    "manifest_version": 2,
    "name": "Facebook Online Notifier",
    "options_page": "options.html",
