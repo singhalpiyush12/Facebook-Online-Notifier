@@ -94,10 +94,10 @@ function getToken(url){
 					if(t.match(/MRequestConfig/)){
 						var tt = t.split(/\"MRequestConfig\"\s*\,\s*\[\]\s*\,/)[1];
 						var tts = tt.split(/\}\s*\,/);
-						var ttt = tts[0]+"},"+tts[1]+"}"
+						var ttt = tts[0]+"},"+tts[1]+"}}"
 						var json = JSON.parse(ttt)
 						fbobj.dtsg = json.dtsg.token;
-						fbobj.ajax = json.ajaxResponseToken.encrypted;
+						fbobj.ajax = json.dtsg_ag.token;
 						flg = true;
 						break;
 					}
